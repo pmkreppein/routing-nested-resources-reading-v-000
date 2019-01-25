@@ -27,5 +27,5 @@ describe "class methods" do
     expect(Post.old_news.count).to eq 1
   end
 end
-
+binding.pry
 end
